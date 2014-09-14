@@ -1,0 +1,38 @@
+AP: Account Payable
+AR: Account Recievable
+
+7th Sept Mail
+Some specification. 3 Currency: AOA(Local currency Angola); USD, EUR, and possibility to create or add other currency.
+Rate to convert (for information only and reporting) the currency.
+I send only 3 files. AP(1 file Control of Receivables) and AR(2files Modelo AFP and Account Payable Creator). the reporting I have to review it and make it most simple possible, to do not complicate things.
+
+I have here 2 spreadsheets and 2 notes as "read me".
+Spreadsheet Treasury Reporting is the TREFLT, treasury actual and forecast long term. I'd like so much if you can add some graphics.
+Spreadsheet WEETRE is the treasury weekly report. 
+The both files are the one used and you are a designer also, so if you can make something very beautiful and Useful Thanks a lot! 
+
+8th Sept Mail
+In the file I have sent you yesterday, I'd like to add some column as describe in the Read-me1. Those column will be needed to identify the IT cost, which will be user when doing the query to split cost by nature (IT, Depart, ...). If need more info, just send me a sms and I'll try to connect in the Internet or call you back. Today I'm in the hospital with my wife so, I will not be all time available as said yesterday. But I can try to find where I can connect or call you.
+
+9th Sept
+I have few questions
+
+1. How many users will be there.
+
+-> 10 Users: One Admin User and 6 normal User, and 3 Users if I have to increase staff.
+
+2. Role of Users?. Like admin etc
+
+-> The role of Normal User is to input or work in each module. 1 User normal User for Account Payable; 4 Users for account Payable.(2 for AFP, 2 to check and prepare Payment). 1 User for Treasury and Cash Management, to work on bank reconciliation and update the cash flow. 3 Normal User to be allocated if needed to increase staff. 1 Administrator User, full access, can give right, create user, create/change/renew/delete password, manage the system. Like Bill Gate in Microsoft! Can do everything :) .
+
+3. Rights?Who can have rights where? Like admin can access whole area.
+
+-> Response above.
+
+4. As database will be at central location, so all other computers will be connected to Internet and then only they can access data.
+
+-> The users don't need to be connected in Internet. Just to be connected in the company server, their should have access. recognized by their window user name logging, but different password.(we can check with 2 user me and some one else). The soft will be based in the company server to be access by everyone authorized. soft should allow working all user in the same time.
+
+5. Authentication?  So every user using system should login first. Right?
+
+-> Yes, you're Right. Recognized by their each Windows user name and logging with a password created (changeable each 30 days). As says above, Administrator User can give right, create user, create/change/renew/delete password.
